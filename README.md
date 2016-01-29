@@ -1,27 +1,20 @@
-Welcome to Starchaser!
-======================
-This is my Frogger arcade game clone for the Udacity Front-End Web Development nanodegree.
+Welcome to my web showcase.
+===========================
+This is a record of my completed projects for the Udacity Front-End Web Development nanodegree. Projects that contain personal information may be listed here but not linked.
 
-To run the game
----------------
-Please go to [my GitHub page](http://lagracia.github.io/starchaser-frontend-nanodegree-arcade-game/ "Starchaser Arcade Game Clone") and enjoy the game :)
-
-To play the game
-----------------
-- Use the arrow keys to move the player up, down, left and right.
-- Player starts with extra 3 lives and loses 1 if she runs into a bug.
-- When your player has no lives remaining, she can get an extra life if your score is divisible by 15.
-
-Scoring
--------
-- Get 5 points per star. Collect a star by moving to its square.
-- Get 10 points every time the player reaches the water.
-- Whenever your player gets an extra life, you get 5 bonus points.
+Projects
+--------
+1. Portfolio page
+2. Online résumé
+3. [Starchaser](http://lagracia.github.io/frontend-nanodegree-arcade-game/ "Starchaser Arcade Game Clone"), my Frogger arcade game clone :)
 
 Credits
 -------
-Having absolutely zero programming background, I needed the step-by-step explanations given in the discussion thread “A Study in JavaScript: Provided Code for the Game Clone,” written by Udayan. The post explained the engine and resources JS files very well.
+Having absolutely zero programming background, I copy shamelessly from the work of students who have completed their projects and share their repositories on GitHub. Many thanks to all of them! Once my projects meet the code reviewers' expectations, I will pay it forward by sharing my work too, in case someone can learn from it. As they say …
 
-However, I just couldn't figure out app.js on my own. So I copied from students who had posted their project repositories on GitHub and shared the links in the forum. Many thanks to danielmoi, morapost, andrewlw89, jyothisridhar, ayimaster, lacyjpr and joseterrera.
+<div style="text-align:center" markdown="1">
 
-Once I meet the code reviewers' expectations for this project, I will pay it forward by sharing my work too, in case someone can learn from it.
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cher_D2K.jpg" height="256" alt="Cher"> and <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cher-Drag-Impersonator.jpg" height="256" alt="Cher alike"></p>
+
+<sub>Image of Cher by cdorobek (Fuente) <a href="http://creativecommons.org/licenses/by/2.0">[CC BY 2.0]</a>, via <a href="https://commons.wikimedia.org/wiki/File%3ACher_D2K.jpg">Wikimedia Commons</a><br> 
+and Cher (look)alike by Evan-Amos (Own work) <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">[CC0]</a>, via <a href="https://commons.wikimedia.org/wiki/File%3ACher-Drag-Impersonator.jpg">Wikimedia Commons</a></sub>
