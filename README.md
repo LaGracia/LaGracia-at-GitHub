@@ -4,9 +4,9 @@ This is a record of my completed projects for the Udacity Front-End Web Developm
 
 Projects
 --------
-1. Portfolio page
+1. [Portfolio page](http://codepen.io/lagracia/full/ZbroLO/ "Hypothetical portfolio of creative work")
 2. Online résumé
-3. [Starchaser](http://lagracia.github.io/frontend-nanodegree-arcade-game/ "Starchaser Arcade Game Clone"), my Frogger arcade game clone :)
+3. [Starchaser](http://lagracia.github.io/frontend-nanodegree-arcade-game/ "Starchaser Arcade Game"), my Frogger arcade game clone :)
 
 Credits
 -------
