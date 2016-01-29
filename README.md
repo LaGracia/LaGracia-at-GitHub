@@ -1,11 +1,11 @@
 Welcome to my web showcase.
 ===========================
-This is a record of my ongoing and completed projects for the Udacity Front-End Web Development nanodegree. In the future, it might also include links to other sites I may develop (fingers crossed).
+This is a record of my completed projects for the Udacity Front-End Web Development nanodegree. Projects that contain personal information may be listed here but not linked.
 
 Projects
 --------
 1. [Portfolio page](http://codepen.io/lagracia/full/ZbroLO/ "Hypothetical portfolio of creative work")
-2. [Online résumé](http://lagracia.github.io/frontend-nanodegree-resume/ "Résumé with personal details removed")
+2. Online résumé
 3. [Starchaser](http://lagracia.github.io/frontend-nanodegree-arcade-game/ "Starchaser Arcade Game"), my Frogger arcade game clone :)
 
 Credits
