@@ -12,6 +12,6 @@ Credits
 -------
 Having absolutely zero programming background, I copy shamelessly from the work of students who have completed their projects and are sharing their repositories on GitHub. Many thanks to all of them! Once my projects meet the code reviewers’ expectations, I’ll pay it forward by sharing my work too, in case someone can learn from it. As they say …
 
-<p align="center"><img src="https://github.com/LaGracia/lagracia.github.io/blob/master/images/Cher_D2K.jpg" height="256" alt="Cher"> <img src="https://github.com/LaGracia/lagracia.github.io/blob/master/images/ampersand.png"> <img src="https://github.com/LaGracia/lagracia.github.io/blob/master/images/256px-Cher-Drag-Impersonator.jpg" height="256" alt="Cher alike"></p>
+<p align="center"><img src="http://lagracia.github.io/images/Cher_D2K.jpg" height="134" alt="Cher"> <img src="http://lagracia.github.io/images/ampersand.png"> <img src="http://lagracia.github.io/images/256px-Cher-Drag-Impersonator.jpg" height="134" alt="Cher alike"></p>
 
 <p align="left"><sup>Cher by cdorobek (Fuente) <a href="http://creativecommons.org/licenses/by/2.0">[CC BY 2.0]</a>, via <a href="https://commons.wikimedia.org/wiki/File%3ACher_D2K.jpg">Wikimedia Commons</a>; Cher (look)alike by Evan-Amos (Own work) <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">[CC0]</a>, via <a href="https://commons.wikimedia.org/wiki/File%3ACher-Drag-Impersonator.jpg">Wikimedia Commons</a></sup></p>
